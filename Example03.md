@@ -1,1 +1,3 @@
-This is a plain text 3
+This is a plain text 
+
+One line added
